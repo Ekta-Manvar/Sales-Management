@@ -9,5 +9,5 @@ Then exported SQL outputs to Excel files and then created tableau dashboard.
 
 
 
-  If interested to see full project requirements click below link 
+  If interested to see full project requirements click here
   <a href="https://ektamanvarportfolio.wordpress.com/sales-management/">Full Project</a>
