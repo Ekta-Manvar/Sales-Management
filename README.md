@@ -8,8 +8,4 @@ Then exported SQL outputs to Excel files and then created tableau dashboard.
 <a href="https://public.tableau.com/app/profile/ekta.manvar/viz/SalesOverview_16424445193860/Dashboard1" traget="_blank">Link to tableau dashboard</a>
 
 
-</br>
-</br>
-</br>
-  If interested to see full project requirements click here
-  <a href="https://ektamanvarportfolio.wordpress.com/sales-management/" traget="_blank">Full Project</a>
+
