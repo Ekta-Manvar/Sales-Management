@@ -1,5 +1,5 @@
 # Sales-Management
-TSQL &amp; Tableau Project 
+TSQL &amp; Tableau Project (<a href="https://ektamanvarportfolio.wordpress.com/sales-management/">Project Link</a>)
 
 Extracted, Cleaned and Joined different tables data in MS SQL SERVER to fulfill business requirements.
 
